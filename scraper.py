@@ -1,15 +1,3 @@
-"""
-scraper.py
-Scrapes top headlines from a news page and saves them to headlines.txt
-
-Usage:
-  - Edit the URL variable below or pass a URL as a command-line arg:
-      python scraper.py
-      python scraper.py https://www.bbc.com/news
-
-Dependencies:
-  pip install requests beautifulsoup4
-"""
 
 import sys
 import time
